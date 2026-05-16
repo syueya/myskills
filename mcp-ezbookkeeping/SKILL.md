@@ -1,5 +1,6 @@
 ---
 name: mcp-ezbookkeeping
+version: 1.0.0
 description: 使用 MCP 协议连接 ezBookkeeping 记账服务，根据自然语言描述自动完成记账。触发场景：用户说"中午吃饭花了35块"、"昨天收到工资5000"、"转账给张三200元"等消费/收入/转账描述时，自动解析并调用 MCP 服务完成记账。
 ---
 

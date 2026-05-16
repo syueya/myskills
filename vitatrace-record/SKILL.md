@@ -1,5 +1,6 @@
 ---
 name: vitatrace-record
+version: 1.0.0
 description: 当用户用自然语言要求记录 VitaTrace 健康数据（如“体重110”“血压120/80”）时使用。
 ---
 

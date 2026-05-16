@@ -1,5 +1,6 @@
 ---
 name: openclaw-model-manage
+version: 1.0.0
 description: 管理 OpenClaw 模型配置，支持添加/删除模型/删除供应商/修改/查询等操作
 allowed-tools: Bash(node:*), Bash(mkdir:*)
 ---
